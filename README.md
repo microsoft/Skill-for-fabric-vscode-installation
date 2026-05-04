@@ -1,2 +1,5 @@
 # Skill-for-fabric-vscode-installation
-# Skill-for-fabric-vscode-installation
+
+# Repository setup required :wave:
+
+Please visit the website URL :point_right: for this repository to complete the setup of this repository and configure access controls.
